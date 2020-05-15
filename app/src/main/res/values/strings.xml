@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lur`r</string>
+
+    <string name="home">Home</string>
+    <string name="activities">Activities</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="gallery">Gallery</string>
+    <string name="title_activity_navigation_menu">NavigationMenu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nama">Mohammad Chaerrull Febriansyah</string>
+    <string name="desc_profile">Saya Lahir pada tanggal 16 Februari tahun 1999 di sebuah rumah sakit di kota Bandung. sekarang tinggal di sebuah kota yang biasa disebut bandung coret,yaitu Kota Cimahi. Lulus dari SMA Negeri 1 Cimahi pada tahun 2017 lalu melanjutkan pendidikan pada Universitas Komputer Indonesia (UNIKOM)</string>
+    <string name="Mikes_judul">Minuman Kesukaan</string>
+    <string name="Mikes_isi">Green Tea</string>
+    <string name="Makes_judul">Makanan Kesukaan</string>
+    <string name="hobi_judul">Hobi</string>
+    <string name="citaCita_judul">Cita - Cita</string>
+    <string name="Makes_isi">Nasi Goreng</string>
+    <string name="membaca">Membaca</string>
+    <string name="basket">Main Basket</string>
+    <string name="astronaut">Astronaut </string>
+    
+</resources>

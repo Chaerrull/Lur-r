@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/latar"
+    android:paddingBottom="57dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="start"
+        android:id="@+id/textViewTitle1"
+        android:text="Spring Rain"
+        android:textSize="8pt"
+        android:textColor="@color/isi"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="start"
+        android:id="@+id/descVideo1"
+        android:text="Elephant Gym"
+        android:textSize="5pt"
+        android:textColor="@color/isi"
+        android:layout_marginBottom="6dp"/>
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:id="@+id/youtube_view1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:videoId="yVSeFCS-jJc"
+        app:autoPlay="false"
+        app:showYouTubeButton="false"
+        android:layout_marginBottom="@+id/textViewTitle"/>
+
+
+
+</LinearLayout>
